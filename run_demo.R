@@ -9,3 +9,4 @@ x <- str_length("this is a test")
 renv::snapshot()
 
 
+testing 
